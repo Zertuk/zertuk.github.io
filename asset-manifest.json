@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a850a070.chunk.css",
+    "main.js": "/static/js/main.872b3ca3.chunk.js",
+    "main.js.map": "/static/js/main.872b3ca3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.941a4025.js",
+    "runtime-main.js.map": "/static/js/runtime-main.941a4025.js.map",
+    "static/js/2.42bf6a73.chunk.js": "/static/js/2.42bf6a73.chunk.js",
+    "static/js/2.42bf6a73.chunk.js.map": "/static/js/2.42bf6a73.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e41ccfc8426259ae0cceba338189ccbf.js": "/precache-manifest.e41ccfc8426259ae0cceba338189ccbf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a850a070.chunk.css.map": "/static/css/main.a850a070.chunk.css.map",
+    "static/media/CartIcon.svg": "/static/media/CartIcon.39a60626.svg",
+    "static/media/NewEngen-Logo.svg": "/static/media/NewEngen-Logo.56b04b4c.svg",
+    "static/media/TrashIcon.svg": "/static/media/TrashIcon.6068cc1f.svg",
+    "static/media/trashicongrey.svg": "/static/media/trashicongrey.e7fe9cbb.svg"
+  }
+}
